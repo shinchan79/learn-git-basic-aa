@@ -1,6 +1,6 @@
 def greet(name):
-    return f"Xin chào, {name}!"
+    return f"{name}!"
 
 if __name__ == "__main__":
-    name = input("Nhập tên của bạn: ")
+    name = input("abdc: ")
     print(greet(name))
