@@ -11,6 +11,4 @@ if __name__ == "__main__":
     print("eeee")
     print("ffff")
     print("gggg")
-
-    hsdffhfhfsdhs
  
